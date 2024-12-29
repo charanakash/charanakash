@@ -10,7 +10,7 @@ I'm a data scientist, which basically means I wrangle numbers until they tell me
 
 <br><br>
 ### Projects
-[fgdfg](google.com)
+[Support ticket categorization system](https://github.com/charanakash/Support-ticket-categorization-system/tree/main)
 
 <br><br>
 
